@@ -1,7 +1,7 @@
+#include <boards/pico2_w.h>
+#include <pico/assert.h>
 #include <stdio.h>
 #include "pico/stdlib.h"
-
-
 
 int main()
 {
@@ -9,6 +9,7 @@ int main()
 
     while (true) {
         printf("Hello, world!\n");
-        sleep_ms(1000);
+
+        sleep_ms(250);
     }
 }

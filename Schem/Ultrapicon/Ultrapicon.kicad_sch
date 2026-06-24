@@ -1,0 +1,20 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "87a835ea-d6c7-40e0-8c6b-1bc66558ec0a")
+	(paper "A4")
+	(title_block
+		(title "Ultrapicon_Base")
+		(date "2026-06-24")
+		(rev "0")
+		(company "JTech-Labs")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
